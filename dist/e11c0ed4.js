@@ -1,0 +1,1 @@
+!function(e){e.f[21]=function(n,t){Object.defineProperty(t,"__esModule",{value:!0});const l=e.r(8);t.MainContent=class extends l.Component{render(){return l.createElement("div",null,l.createElement("h1",null,"This is the main content!"))}}}}($fsx);

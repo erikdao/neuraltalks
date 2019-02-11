@@ -1,0 +1,24 @@
+{
+  "name": "neuraltalks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node fuse",
+    "dist": "node fuse dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fuse-box": "^3.7.0",
+    "node-sass": "^4.11.0",
+    "terser": "^3.16.1",
+    "typescript": "^3.3.3",
+    "uglify-js": "^3.4.9"
+  },
+  "dependencies": {
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  }
+}
